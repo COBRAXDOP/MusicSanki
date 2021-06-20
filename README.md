@@ -3,7 +3,7 @@
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ'ꜱ ᴠᴏɪᴄᴇ ᴄᴀʟʟ
 
 <p align="center">
-  <img src="https://telegra.ph/file/bface56c03fca8b80c869.png">
+  <img src="https://telegra.ph/file/68ba3f69f145217b02664.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
